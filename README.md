@@ -38,12 +38,12 @@ That is it. It took more than an hour (upload to the cloud seems to be slow at t
 
 ## Running OneNote on Mac
 After installing OneNote from the AppStore, I was disappointed at first. I could not
-find my notes. It seems like to have to add every notebook from Evernote from your
+find my notes. It seems like I have to add every notebook from Evernote from your
 Microsoft cloud drive to OneNote. ONE AT A TIME. That sucks, but it is a one time effort.
 
 ## Differences
 Where Evernote has notebooks and notes, OneNote has notebooks, sections (tabs) and pages. 
-Your notebooks get converted to notebooks, and your notes to pages. For 100 pages each, the
+Your notebooks get converted to notebooks, and your notes to pages. For 100 pages each the
 converter will create a new section.
 
 Especially the sections with the limit of 100 pages will make browsing your notes (or pages)
